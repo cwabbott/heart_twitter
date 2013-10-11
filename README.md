@@ -4,6 +4,7 @@ HeartTwitter plugs metrics into HEART (https://github.com/cwabbott/heart) for me
 2. bundle install
 3. bundle exec rake db:migrate
 4. add configuration values inside config/application.rb or an initializer
+
   ```
     # HEART Twitter gem
     # All these tokens are from https://dev.twitter.com
